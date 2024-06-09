@@ -24,4 +24,4 @@ sudo cp uonwifi "$UONWIFI_BIN"
 # Set permissions for the script
 sudo chmod +x "$UONWIFI_BIN"
 
-echo "Installation complete! To run, use uonwifi login username password"
+echo "Installation was successfully completed! To run, use uonwifi login username password"
